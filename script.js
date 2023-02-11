@@ -25,8 +25,7 @@ function apiSearch() {
       document.getElementById("searchResults").style.visibility = "visible"
 
       $('#searchResults').html(results);
-      //$('#searchResults').dialog();
-      $('#searchResults').dialog();
+      $('#searchResults').dialog({width: 1000, height:700});
 
       // If the draggables for search results and time are present at the same time, the html for their titles is similar,
       // so this is necessary to differentiate between them.
@@ -47,6 +46,7 @@ function changeBackgroundImage() {
     [image1, image2] = [image2, image1] // Cycle between the images
     document.getElementsByTagName("body")[0].style.background = image1
 }
+
 
 function getTime() {
     var date = new Date()
