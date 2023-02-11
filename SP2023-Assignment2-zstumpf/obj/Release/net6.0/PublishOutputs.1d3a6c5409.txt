@@ -1,0 +1,7 @@
+C:\Users\zacharystumpf\Source\Repos\mis-421-assignment-2-jquery-and-ajax-zgstumpf\SP2023-Assignment2-zstumpf\obj\Release\net6.0\PubTmp\Out\SP2023-Assignment2-zstumpf.exe
+C:\Users\zacharystumpf\Source\Repos\mis-421-assignment-2-jquery-and-ajax-zgstumpf\SP2023-Assignment2-zstumpf\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\zacharystumpf\Source\Repos\mis-421-assignment-2-jquery-and-ajax-zgstumpf\SP2023-Assignment2-zstumpf\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\zacharystumpf\Source\Repos\mis-421-assignment-2-jquery-and-ajax-zgstumpf\SP2023-Assignment2-zstumpf\obj\Release\net6.0\PubTmp\Out\SP2023-Assignment2-zstumpf.dll
+C:\Users\zacharystumpf\Source\Repos\mis-421-assignment-2-jquery-and-ajax-zgstumpf\SP2023-Assignment2-zstumpf\obj\Release\net6.0\PubTmp\Out\SP2023-Assignment2-zstumpf.deps.json
+C:\Users\zacharystumpf\Source\Repos\mis-421-assignment-2-jquery-and-ajax-zgstumpf\SP2023-Assignment2-zstumpf\obj\Release\net6.0\PubTmp\Out\SP2023-Assignment2-zstumpf.runtimeconfig.json
+C:\Users\zacharystumpf\Source\Repos\mis-421-assignment-2-jquery-and-ajax-zgstumpf\SP2023-Assignment2-zstumpf\obj\Release\net6.0\PubTmp\Out\SP2023-Assignment2-zstumpf.pdb

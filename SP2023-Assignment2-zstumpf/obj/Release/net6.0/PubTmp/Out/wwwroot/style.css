@@ -1,0 +1,29 @@
+body {
+    background: url("https://images.unsplash.com/photo-1675068766426-eb0f1a065314?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80");
+}
+
+#header {
+    padding: 5px;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 8px;
+    text-align: center;
+    background: white;
+    color: black;
+    font-size: 15px;
+    font-family: Arial;
+}
+
+#searchBarAndButtons {
+    text-align: center;
+    font-size: 14pt; /*creates spacing between fields*/
+}
+
+
+#searchResults {
+    visibility: hidden;
+}
+
+#time{
+    visibility:hidden;
+}
